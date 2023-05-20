@@ -1,0 +1,16 @@
+{
+    "name": "k8class",
+    "version": "1.0.0",
+    "description": "-",
+    "main": "index.js",
+    "scripts": {
+        "begin": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "nodemon": "^2.0.22"
+    }
+}
